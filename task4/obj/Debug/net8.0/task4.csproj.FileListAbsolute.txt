@@ -1,0 +1,14 @@
+/Users/sergij_khomenko/Documents/GitHub/Essential_less13/task4/bin/Debug/net8.0/task4
+/Users/sergij_khomenko/Documents/GitHub/Essential_less13/task4/bin/Debug/net8.0/task4.deps.json
+/Users/sergij_khomenko/Documents/GitHub/Essential_less13/task4/bin/Debug/net8.0/task4.runtimeconfig.json
+/Users/sergij_khomenko/Documents/GitHub/Essential_less13/task4/bin/Debug/net8.0/task4.dll
+/Users/sergij_khomenko/Documents/GitHub/Essential_less13/task4/bin/Debug/net8.0/task4.pdb
+/Users/sergij_khomenko/Documents/GitHub/Essential_less13/task4/obj/Debug/net8.0/task4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sergij_khomenko/Documents/GitHub/Essential_less13/task4/obj/Debug/net8.0/task4.AssemblyInfoInputs.cache
+/Users/sergij_khomenko/Documents/GitHub/Essential_less13/task4/obj/Debug/net8.0/task4.AssemblyInfo.cs
+/Users/sergij_khomenko/Documents/GitHub/Essential_less13/task4/obj/Debug/net8.0/task4.csproj.CoreCompileInputs.cache
+/Users/sergij_khomenko/Documents/GitHub/Essential_less13/task4/obj/Debug/net8.0/task4.dll
+/Users/sergij_khomenko/Documents/GitHub/Essential_less13/task4/obj/Debug/net8.0/refint/task4.dll
+/Users/sergij_khomenko/Documents/GitHub/Essential_less13/task4/obj/Debug/net8.0/task4.pdb
+/Users/sergij_khomenko/Documents/GitHub/Essential_less13/task4/obj/Debug/net8.0/task4.genruntimeconfig.cache
+/Users/sergij_khomenko/Documents/GitHub/Essential_less13/task4/obj/Debug/net8.0/ref/task4.dll

@@ -1,0 +1,14 @@
+/Users/sergij_khomenko/Documents/GitHub/Essential_less13/matrix/bin/Debug/net8.0/matrix
+/Users/sergij_khomenko/Documents/GitHub/Essential_less13/matrix/bin/Debug/net8.0/matrix.deps.json
+/Users/sergij_khomenko/Documents/GitHub/Essential_less13/matrix/bin/Debug/net8.0/matrix.runtimeconfig.json
+/Users/sergij_khomenko/Documents/GitHub/Essential_less13/matrix/bin/Debug/net8.0/matrix.dll
+/Users/sergij_khomenko/Documents/GitHub/Essential_less13/matrix/bin/Debug/net8.0/matrix.pdb
+/Users/sergij_khomenko/Documents/GitHub/Essential_less13/matrix/obj/Debug/net8.0/matrix.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sergij_khomenko/Documents/GitHub/Essential_less13/matrix/obj/Debug/net8.0/matrix.AssemblyInfoInputs.cache
+/Users/sergij_khomenko/Documents/GitHub/Essential_less13/matrix/obj/Debug/net8.0/matrix.AssemblyInfo.cs
+/Users/sergij_khomenko/Documents/GitHub/Essential_less13/matrix/obj/Debug/net8.0/matrix.csproj.CoreCompileInputs.cache
+/Users/sergij_khomenko/Documents/GitHub/Essential_less13/matrix/obj/Debug/net8.0/matrix.dll
+/Users/sergij_khomenko/Documents/GitHub/Essential_less13/matrix/obj/Debug/net8.0/refint/matrix.dll
+/Users/sergij_khomenko/Documents/GitHub/Essential_less13/matrix/obj/Debug/net8.0/matrix.pdb
+/Users/sergij_khomenko/Documents/GitHub/Essential_less13/matrix/obj/Debug/net8.0/matrix.genruntimeconfig.cache
+/Users/sergij_khomenko/Documents/GitHub/Essential_less13/matrix/obj/Debug/net8.0/ref/matrix.dll
